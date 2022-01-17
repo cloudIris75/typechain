@@ -1,0 +1,21 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "TypeScript로 블록체인 만들기.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudIris75/typechain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudIris75/typechain/issues"
+  },
+  "homepage": "https://github.com/cloudIris75/typechain#readme"
+}
