@@ -20,3 +20,6 @@ npm install crypto-js
 - [X] 블록 생성 기능 추가 (createNewBlock())
 - [X] 블록 유효성 검사 기능 추가 (isBlockValid())
 - [X] 블록체인에 검증된 블록 추가 (addBlock())
+
+## Reference
+[Typescript로 블록체인 만들기 - 노마드 코더 Nomad Coders](https://nomadcoders.co/typescript-for-beginners/lobby)
